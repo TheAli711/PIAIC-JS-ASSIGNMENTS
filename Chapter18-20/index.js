@@ -1,5 +1,5 @@
 var courses=[];
-for (let index = 0000; index < 5; index++) {
+for (let index = 0; index < 5; index++) {
     courses.push(prompt(`Enter course ${index+1}: `));
 }
 alert(courses);
